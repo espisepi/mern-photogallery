@@ -1,3 +1,5 @@
+# Thanks to https://levelup.gitconnected.com/create-a-photo-gallery-app-using-mern-stack-826d7d926232 for the tutorial
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
